@@ -6,7 +6,7 @@
 // STEP 1: (NOTHING TO DO. ALREADY DONE FOR YOU)
 (function () {
 
-var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+var names = ["Ahmed", "Mohamed", "eid", "Ali", "Alaa", "Sara"];
 
 
 for (var i = 0; i < names.length; i++) {
